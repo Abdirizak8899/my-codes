@@ -1,5 +1,6 @@
 # developing Kinsi iyo dhaban Game!
 # registration & intro for the Game
+#copyright of this code have Abdirizak abdullahi hussein
 def registintro():
     print("Kinsi iyo dhaban Game!")
     
